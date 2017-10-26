@@ -6,6 +6,7 @@
 ## Add this bookarklet to the browser
 
 Drag this button onto the browser's bookmark bars.
+<button class="button-save large">Open in Mobile</button>
 
 When you click the button, it will generate a QR code of the page you are visiting.
 
