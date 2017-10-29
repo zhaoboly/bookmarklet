@@ -1,7 +1,9 @@
 #  QR Bookmarklet for Mobile phone
 
 
-## Add this bookmarklet to the browser
+
+
+## How to add this bookmarklet to the browser
 
 Drag this link onto the browser's bookmark bars.
 
