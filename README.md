@@ -6,7 +6,7 @@ This bookmarklet will generate a QR code of the page you are visiting. It has be
 
 ## How to add this bookmarklet to the browser
 
-Drag this link onto the browser's bookmark bars.
+Drag the following link onto the browser's bookmark bars.
 
 <a class="" href="javascript:void((function()%7bvar%20sl;if(window.getSelection)%7bsl=%22%22+window.getSelection();%7delse%20if(document.selection)%7bsl=document.selection.createRange().text;%7ddata=encodeURIComponent(sl%7c%7clocation.href);var%20win=window.open(%22https://www.scan2d.com/tools/qr.htm?url=%22+data,%22_blank%22,%22width=550,height=625,resizable=yes,status=yes,replace=true%22);win.focus();setTimeout(function%20(){win.close();},20000);%7d)())">Scan2D QR</a>
 
