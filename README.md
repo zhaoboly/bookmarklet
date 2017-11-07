@@ -1,6 +1,6 @@
 #  QR Bookmarklet for Mobile phone   
       
-      
+<br>      
    
 
 ## How to add this bookmarklet to the browser
