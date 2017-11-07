@@ -1,5 +1,5 @@
 #  QR Bookmarklet for Mobile phone   
-This bookmarklet will generate a QR code of the page you are visiting. It has been tested on Chrome,Firefox, Microsoft IE, Microsoft Edge, and Safari.      
+This bookmarklet will generate a QR code of the page you are visiting. It has been tested on Chrome, irefox, Microsoft IE, Microsoft Edge, and Safari.      
 <br>      
    
 
@@ -14,7 +14,7 @@ When you click the button, it will generate a QR code of the page you are visiti
 
 ## Why we need it
 
-* WeChat has an built in QR code scanner, so you can send any web link to WeChat from the desktop browser.
+* WeChat has a built-in QR code scanner. Using this tools, you can send any web link to WeChat from the desktop browser.
 * Starting from 2017, iPhone's camera app can [read QR codes](http://www.iphonehacks.com/2017/09/how-to-scan-qr-codes-iphone-ipad-ios-11.html). This bookmarklet can generate QR codes for any webpage, allow the same page to be opened in iPhone almost immediately.
 * People may have gotten interrupted or rushed to complete another task. A QR code allow the user to scan and open the same link on smart phone, so that they can pick up what he left out and continue reading.
 * Normally company computers don't allow access to social media websites. Scanning a QR code can help the user immediately open the link on their smart phone and share it using Facebook app. 
@@ -22,6 +22,6 @@ When you click the button, it will generate a QR code of the page you are visiti
 ## Other Features
 * You can highlight any text on the page and hit the button. A QR code based on that text will be generated.
 
-check [Scan2d.com](https://scan2d.com) for more details.
+Check [Scan2d.com](https://scan2d.com) for more details.
 
 
