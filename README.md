@@ -14,6 +14,7 @@ When you click the button, it will generate a QR code of the page you are visiti
 
 ## Why we need it
 
+* Quickly transfer any URL to your phone with QR Code bookmarklet
 * WeChat has a built-in QR code scanner. If you found some interesting websites, blogs, news, articles, photos, videos on your computer, you can easily generate QR code, scan and open the link on mobile phone.
 * Starting from 2017, iPhone's camera app can [read QR codes](http://www.iphonehacks.com/2017/09/how-to-scan-qr-codes-iphone-ipad-ios-11.html). This bookmarklet can generate QR codes for any webpage, allow the same page to be opened in iPhone almost immediately.
 * People may have gotten interrupted or rushed to complete another task. A QR code allow the user to scan and open the same link on smart phone, so that they can pick up what he left out and continue reading.
