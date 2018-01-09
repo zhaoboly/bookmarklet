@@ -1,4 +1,4 @@
-#  QR Bookmarklet for Mobile phone   
+#  Instant QR Code for Mobile phone   
 This bookmarklet will generate a QR code of the page you are visiting. It has been tested on Chrome, irefox, Microsoft IE, Microsoft Edge, and Safari.      
 <br>      
    
