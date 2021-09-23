@@ -7,10 +7,7 @@ This bookmarklet will generate a QR code of the page you are visiting. It has be
 
 Drag the following link onto the browser's bookmark toolbar.
 
-Go to <a href="https://zhaoboly.blogspot.com/2019/08/generate-qr-code-for-current-web-page.html">this link</> to get the bookmarklet.
-
-
-When you click the button, it will generate a QR code of the page you are visiting.
+Go to <a href="https://zhaoboly.blogspot.com/2019/08/generate-qr-code-for-current-web-page.html">this link</a> to get the bookmarklet.
 
 ## Why we need it
 
