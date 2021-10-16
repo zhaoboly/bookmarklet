@@ -21,4 +21,8 @@ Go to <a href="https://zhaoboly.blogspot.com/2019/08/generate-qr-code-for-curren
 
 Check [Scan2d.com](https://scan2d.com) for more details.
 
+## Other Useful tools
+[JsonStores.com](https://jsonstores.com) offers a free, secured and JSON object datastore for small projects.
+[QRVoice.com](https://qrvoice.com)  is a free tool that allows you to create QR codes that when scanned will play a audio message. 
+
 
